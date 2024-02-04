@@ -1,0 +1,15 @@
+name: MoonItems
+version: '${project.version}'
+main: org.loioh.moonitems.MoonItems
+api-version: '1.20'
+author: loioh
+website: https://www.fiverr.com/s/3j4g7m
+commands:
+  mitem_get:
+    description: give you custom(moon) item from the plugin(op)
+    usage: /command <item_id>
+    aliases: [ mi_get ]
+  mmob_summon:
+    description: summon custom(moon) mob from the plugin(op)
+    usage: /command <mob_id>
+    aliases: [ mm_summon ]

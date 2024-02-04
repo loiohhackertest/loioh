@@ -1,0 +1,10 @@
+org\loioh\moonitems\items\SItems0.class
+org\loioh\moonitems\Event.class
+org\loioh\moonitems\_Init.class
+org\loioh\moonitems\commands\item_get.class
+org\loioh\moonitems\items\CustomItemException.class
+org\loioh\moonitems\commands\mob_summon.class
+org\loioh\moonitems\items\GItems.class
+org\loioh\moonitems\MoonItems.class
+org\loioh\moonitems\items\ItemsManager.class
+org\loioh\moonitems\items\Staffs0.class
